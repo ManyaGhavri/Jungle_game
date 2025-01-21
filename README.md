@@ -80,14 +80,21 @@ else:
 
 Contributions are welcome! If you find a bug or have a suggestion for improvement, feel free to fork the repository and submit a pull request.
 
-### Steps to Contribute:
+### 👥Steps to Contribute:
 1. Fork the repository.
 2. Create a new branch for your feature or bugfix.
 3. Commit your changes with a descriptive message.
 4. Push the changes to your forked repository.
 5. Open a pull request to the main branch of this repository.
    
-## Acknowledgments
+## 💬Acknowledgments
 
 Thank you for playing Jungle Game! We hope you enjoyed this simple adventure.
+
+## 👩‍💻Developer
+- **Manya Ghavri**
+- 🌐 [GitHub Profile](https://github.com/ManyaGhavri)  
+- 📧 Email: manyaghavri3211@gmail.com
+- 🔗 LinkedIn: [Linkedin_link](https://www.linkedin.com/in/manya-ghavri-b00773310/)
+
 
