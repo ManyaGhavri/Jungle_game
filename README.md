@@ -93,7 +93,7 @@ Thank you for playing Jungle Game! We hope you enjoyed this simple adventure.
 
 ## 👩‍💻Developer
 - **Manya Ghavri**
-- 🌐 [GitHub Profile](https://github.com/ManyaGhavri)  
+- 🌐 GitHub: [GitHub Profile](https://github.com/ManyaGhavri)  
 - 📧 Email: manyaghavri3211@gmail.com
 - 🔗 LinkedIn: [Linkedin_link](https://www.linkedin.com/in/manya-ghavri-b00773310/)
 
